@@ -1,0 +1,21 @@
+{
+  "name": "ploymer",
+  "version": "0.0.0",
+  "authors": [
+    "vivekpaxcel <vivek.kumar@paxcel.net>"
+  ],
+  "description": "test for polymer",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5",
+    "platform": "Polymer/platform#~0.4.2"
+  }
+}
